@@ -21,7 +21,7 @@ export default {
 		}
 	},
 	"mode": "production",
-	"projectType": "create-react-app",
+	"projectType": "gatsby",
 	"site": {
 		"styles": {
 			"background": "#dcf8f5"
