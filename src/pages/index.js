@@ -317,7 +317,7 @@ export default (() => {
 				</Box>
 			</Box>
 		</Section>
-		<Section background="url(https://uploads.quarkly.io/672bee6c9e74900024fe3dd9/images/wave-haikei%281%29.svg?v=2024-11-06T23:13:11.974Z) center/cover repeat-x scroll" height="300px">
+		<Section background="url(https://uploads.quarkly.io/672bee6c9e74900024fe3dd9/images/wave-haikei%281%29.svg?v=2024-11-06T23:13:11.974Z) center/cover repeat-x scroll" height="400px">
 			<Box
 				min-width="100px"
 				min-height="100px"
